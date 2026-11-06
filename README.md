@@ -1,6 +1,6 @@
 # Actividad 2.10 — Clustering con K-means y jerárquico
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/h0ndv/lab-2.10-clustering/blob/main/lab_2_10_clustering.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/h0ndv/lab-2.10-data-mining/blob/main/lab_2_10_clustering.ipynb)
 
 **Minería de Datos IEI097 · Unidad II · Laboratorio**  
 **Estudiante:** Sebastián
